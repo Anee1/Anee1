@@ -1,15 +1,15 @@
 # 💫 À propos de moi
 
-Je suis un analyste quantitatif spécialisé en **gestion des risques**, **modélisation financière** et **développement de solutions numériques** pour les marchés émergents, notamment la **BRVM**.
+Je suis un Actuaire spécialisé en **analyste quantitatif**, **gestion des risques**, **modélisation financière**, **analyse de donnée** et **développement de solutions numériques** pour les marchés émergents, notamment la **BRVM**.
 
 🎯 Je travaille actuellement sur :
 - l’analyse des **risques et performances de portefeuilles financiers**,
 - l’**optimisation d’actifs** (CAPM, Markowitz, etc.),
 - la **modélisation des risques** (liquidité, rachat, marché, opérationnel),
-- la **simulation de scénarios extrêmes** et la **mesure de performance ajustée au risque** (VaR, Sharpe, Sortino, etc.),
-- le développement d’**outils digitaux** pour les acteurs du marché financier africain (plateformes d’analyse, modules PCA, logiciels de portefeuille…).
+- la **simulation de scénarios** et la **mesure de performance ajustée au risque** (VaR, Sharpe, Sortino, etc.),
+- le développement d’**outils digitaux** pour les acteurs du marché financier BRVM (plateformes d’analyse de portefeuille, gestion de risque Operationnel, …).
 
-📈 Je combine des compétences en **actuariat**, **statistique**, **machine learning** et **programmation Python**, avec une forte orientation métier (banques, assurances, sociétés de gestion, SGI/SGO…).
+📈 Je combine des compétences en **actuariat**, **statistique**, **analyse de donnée**, **machine learning** et **programmation Python**, avec une forte orientation métier (assurances, sociétés de gestion, SGI/SGO…).
 
 🌍 Je conçois des solutions concrètes pour accompagner la transformation digitale du secteur financier en Afrique.
 
